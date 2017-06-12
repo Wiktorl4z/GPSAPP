@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wyszukiwacz Restauracji</string>
+    <string name="action_settings">action_settings</string>
+    <string name="dalej">Dalej</string>
+    <string name="szukaj_restauracji">Szukaj Restauracji</string>
+    <string name="_50_100">50 - 100 zł</string>
+    <string name="_30_50">30 - 50 zł</string>
+    <string name="_20_30">20 - 30 zł</string>
+    <string name="_10_20">10 - 20 zł</string>
+    <string name="wloska">Włoska</string>
+    <string name="polska">Polska</string>
+    <string name="bbq">BBQ</string>
+    <string name="japonska">Japońska</string>
+    <string name="inna">Inna</string>
+</resources>
